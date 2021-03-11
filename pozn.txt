@@ -1,0 +1,13 @@
+Co jsem se v tomto CV naucil procvicil?
+
+- rozdil mezi statickou tridou instancni tridou
+kdyz mam vytvorenou instancni tridu, musim vytvorit instanci te tridy, abych mohl pouzivat metody v ni napsane
+instancni tridu vytvarim bez pouziti slova "static"
+kdyz mam vytvorenou statickou tridu, nemusim vytvorit instanci te tridy abych mohl puzivat metody v ni napsane
+statickou tridu vytvarim s pouzitim slovicka "static"
+
+- vytvorenim parametrickeho konstrucotru ve formulari s parametrem datove slozky hodiny, oz je instance tridy Hodiny dostanu tridu hodiny do tridy program, kde vytvorim instanci tridy formulare s parametrem instance hodiny, kterou pred timto prikazem vytvorim, tim zajistim komunikaci tridy hodiny s formularem i s tridou program
+
+- tlacitkama nespoustim smycku, tam jen menim hodnotu promene kterou vyuziva if ve Smycka()
+- Smycka musi byt nekonecna a by se po zmacknuti nezobrazuj, a pote zobrazuj zase rozbehla
+takze vlastne bezi na pozadi porad, jen kdyz ma v promenne true tak vypisuje a kdyz ma false tak nevypisuje
